@@ -1,0 +1,10 @@
+react-native-materialbottom-tabs
+node_modules/src/views/BottomTabbar.js copy SafeAreaView to react-native
+utils createTabnavigator.js replace @react-navigation/core to react-navigation
+    comment emit.focus
+
+node_modules/native-base/dist/src/basic/IconNb.js
+Replace FontAwesome5 to FontAwesome
+
+
+

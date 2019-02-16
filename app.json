@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Accord",
+    "description": "This project is really great.",
+    "slug": "Accord",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "androidStatusBar": {
+      "backgroundColor": "#FF5964",
+      "barStyle": "light-content"
+    },
+    "icon": "./assets/AccordLogo.png",
+    "splash": {},
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.finitysoftwaresolutions.accord"
+    },
+    "android": {
+      "package": "com.finitysoftwaresolutions.accord"
+    }
+  }
+}
